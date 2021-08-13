@@ -1,4 +1,4 @@
-# Rocky Project
+# Project
 Website page, using HTML, CSS and JavaScript.</br>
 
 ### 🚀 Starting
